@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Arrow.DeveloperTest
+/Arrow.DeveloperTest/bin/Debug
+/Arrow.DeveloperTest/obj
+/Arrow.DeveloperTest.Common/bin/Debug
+/Arrow.DeveloperTest.Common/obj
+/Arrow.DeveloperTest.Models/bin/Debug
+/Arrow.DeveloperTest.Models/obj
+/Arrow.DeveloperTest.Repository/bin/Debug
+/Arrow.DeveloperTest.Repository/obj
+/Arrow.DeveloperTest.Runner/bin/Debug
+/Arrow.DeveloperTest.Runner/obj
+/Arrow.DeveloperTest.Tests/bin/Debug
+/Arrow.DeveloperTest.Tests/obj
